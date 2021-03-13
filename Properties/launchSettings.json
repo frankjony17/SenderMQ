@@ -5,7 +5,9 @@
       "environmentVariables": {
         "DOTNET_ENVIRONMENT": "Development"
       },
-      "dotnetRunMessages": "true"
+      "remoteDebugEnabled": false,
+      "dotnetRunMessages": "true",
+      "nativeDebugging": true
     },
     "Docker": {
       "commandName": "Docker"
